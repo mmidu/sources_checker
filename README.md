@@ -1,4 +1,4 @@
-# Sources Checker - Building AI course project.
+# Sources Checker - Building AI course project
 
 A bot that checks the sources of e-newspapers articles
 
