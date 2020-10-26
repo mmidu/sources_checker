@@ -4,7 +4,7 @@ A bot that checks the sources of e-newspapers articles
 
 ## Summary
 
-The project is about building a bot that scrambles the internet looking for e-newspapers articles and checks their sources. The main aim is to provide e-newspapers with an electronic badge that demonstrates the article was written with authoritative sources.
+The project is about building a bot that scrambles the internet looking for e-newspapers articles and checks their sources. The main aim is to provide e-newspapers with a badge that demonstrates the article was written with authoritative sources.
 
 ## Background
 
